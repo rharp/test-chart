@@ -1,0 +1,7 @@
+apiVersion: v2
+description: KU Gepard Service
+name: ku-gepard
+version: 0.0.407
+kind: test
+metadata:
+    name: test
